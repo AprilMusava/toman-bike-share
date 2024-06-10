@@ -7,7 +7,7 @@ The Toman Bike Share Dashboard Development project aimed to create an interactiv
 ## Introduction
 
 ### Background
-Toman Bike Share is a growing bike-sharing service looking to leverage data for better decision-making. With an increase in demand, they need a comprehensive dashboard to track and analyze key performance metrics.
+Toman Bike Share is a growing bike-sharing service looking to leverage data for better decision-making. With increased demand, they need a comprehensive dashboard to track and analyze key performance metrics.
 
 ### Objective
 The primary objective of this project was to develop a Power BI dashboard to visualize hourly revenue, profit and revenue trends, seasonal revenue, and rider demographics.
@@ -50,6 +50,8 @@ The dashboard was designed with Toman Bike Share’s brand colors and user-frien
 *Figure 2: Seasonal Revenue Comparison*
 
 ## Recommendations
+![Price Analysis](images/Price Analysis.jpg)  
+*Figure 1: Price Analysis*
 
 Based on the analysis, the following recommendations are proposed:
 - Implement a 10-15% price increase to boost revenue while maintaining customer growth.
@@ -66,7 +68,6 @@ Based on the analysis, the following recommendations are proposed:
 ### Key Performance Indicators
 - Customer growth rate
 - Revenue changes
-- User engagement with the dashboard
 
 ### Feedback Loop
 - Collect customer feedback through surveys and direct interactions.
