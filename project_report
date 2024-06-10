@@ -1,0 +1,78 @@
+# Toman Bike Share Dashboard Development
+
+## Executive Summary
+
+The Toman Bike Share Dashboard Development project aimed to create an interactive and user-friendly dashboard using Power BI to visualize key performance metrics. Key insights include peak usage hours, seasonal revenue trends, and rider demographic breakdowns. Recommendations include a conservative 10-15% price increase, differentiated pricing for various rider types, and promotional offers to boost customer engagement.
+
+## Introduction
+
+### Background
+Toman Bike Share is a growing bike-sharing service looking to leverage data for better decision-making. With an increase in demand, they need a comprehensive dashboard to track and analyze key performance metrics.
+
+### Objective
+The primary objective of this project was to develop a Power BI dashboard to visualize hourly revenue, profit and revenue trends, seasonal revenue, and rider demographics.
+
+## Data Collection and Preparation
+
+### Dataset
+Data including:
+- Transaction records
+- Customer information
+- Seasonal data
+
+### Data Cleaning and Transformation
+The data was already relatively clean and had no missing values, so no action was needed.
+
+## Dashboard Development
+
+### Design Principles
+The dashboard was designed with Toman Bike Share’s brand colors and user-friendly navigation in mind. Visualizations were chosen for clarity and effectiveness.
+
+### Key Features
+- **Hourly Revenue Analysis**: Line charts to show revenue trends by hour.
+- **Profit and Revenue Trends**: Bar charts to compare monthly profits and revenues.
+- **Seasonal Revenue**: Comparative charts to highlight revenue variations across seasons.
+- **Rider Demographics**: Pie charts and tables showing the breakdown of rider demographics.
+
+## Analysis and Insights
+
+### Key Findings
+- Peak usage hours were identified between 7-9 AM and 4-6 PM.
+- Revenue peaked during summer months, with a noticeable drop in winter.
+- The majority of riders are between the ages of 25-34.
+
+### Visualizations
+![Hourly Revenue Analysis](../images/visualization1.png)  
+*Figure 1: Hourly Revenue Analysis*
+
+
+![Seasonal Revenue Comparison](../images/visualization2.png)  
+*Figure 2: Seasonal Revenue Comparison*
+
+## Recommendations
+
+Based on the analysis, the following recommendations are proposed:
+- Implement a 10-15% price increase to boost revenue while maintaining customer growth.
+- Introduce tiered pricing to cater to different rider types, such as casual riders and regular commuters.
+- Launch promotional offers to attract new customers and retain existing ones, such as seasonal discounts and loyalty programs.
+
+### Steps for Deployment
+- Deploy the dashboard on Power BI Service.
+- Set up scheduled data refreshes to ensure up-to-date information.
+- Train staff on using the dashboard and interpreting the data.
+
+## Monitoring and Evaluation
+
+### Key Performance Indicators
+- Customer growth rate
+- Revenue changes
+- User engagement with the dashboard
+
+### Feedback Loop
+- Collect customer feedback through surveys and direct interactions.
+- Monitor usage data and make necessary adjustments based on trends.
+
+## Conclusion
+
+The Toman Bike Share Dashboard Development project successfully provided a comprehensive tool for visualizing key performance metrics. The recommended strategies, if implemented, are expected to boost revenue, enhance customer satisfaction, and drive growth. Continuous monitoring and adjustments will ensure sustained success.
+
