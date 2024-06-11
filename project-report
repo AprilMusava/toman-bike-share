@@ -29,17 +29,17 @@ The data was already relatively clean and had no missing values, so no action wa
 The dashboard was designed with Toman Bike Share’s brand colors and user-friendly navigation in mind. Visualizations were chosen for clarity and effectiveness.
 
 ### Key Features
-- **Hourly Revenue Analysis**: Line charts to show revenue trends by hour.
+- **Hourly Revenue Analysis**: Table showing revenue trends by hour.
 - **Profit and Revenue Trends**: Bar charts to compare monthly profits and revenues.
-- **Seasonal Revenue**: Comparative charts to highlight revenue variations across seasons.
-- **Rider Demographics**: Pie charts and tables showing the breakdown of rider demographics.
+- **Seasonal Revenue**: Comparative charts highlighting revenue variations across seasons.
+- **Rider Demographics**: Pie charts showing the breakdown of rider demographics.
 
 ## Analysis and Insights
 
 ### Key Findings
-- Peak usage hours were identified between 7-9 AM and 4-6 PM.
-- Revenue peaked during summer months, with a noticeable drop in winter.
-- The majority of riders are between the ages of 25-34.
+- Peak usage hours were identified as between 10 - 15 hrs with variable profitability across the week
+- Revenue peaked during the 3rd season, with a noticeable drop in the 1st season.
+- The majority of riders are registered riders covering 81% of the 3 million riders
 
 ### Visualizations
 ![Hourly Revenue Analysis](images/hourly analysis.jpg)  
